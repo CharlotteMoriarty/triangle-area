@@ -1,0 +1,28 @@
+.bok-a {
+    background: #E3CBC9;
+    border: 2px solid grey;
+}
+.wys {
+    background: #E3A79F;
+    border: 2px solid grey;
+}
+.button {
+    background: #E59890;
+    color: black;
+    border: 2px solid grey;
+}
+.math {  
+    display:inline-block;
+    color: black; 
+    font-size: 14px;
+    border: 2px solid grey;
+    width: 150px; 
+    height: 16px;
+    margin: -5px auto;
+    background: #E3CBC9; 
+}
+.math-box {
+    border: 3px solid grey;
+    margin: 0 auto;
+    padding: 50px ;
+}
