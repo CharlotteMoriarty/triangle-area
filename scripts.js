@@ -4,7 +4,7 @@ function triangleArea() {
     var h=document.getElementById('h').value;
     var triangleArea= a*h/2;
     var wynik =document.getElementById('resoult').innerHTML =triangleArea;
-    wynik;
+   
 }
 //obliczanie na sztywnych danych z pliku +console.log
 /*
