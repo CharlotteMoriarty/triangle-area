@@ -1,2 +1,10 @@
 # triangle-area
-obliczanie pola trójkąta przykład js
+Triangle area Js exercise 
+
+Used:
+
+  ❃ HTML
+  
+  ❃ CSS
+  
+  ❃ Js
